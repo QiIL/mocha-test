@@ -1,3 +1,3 @@
 test:
-	./node_modules/mocha/bin/mocha --reporter nyan
+	./node_modules/mocha/bin/mocha 
 .PHONY: test
